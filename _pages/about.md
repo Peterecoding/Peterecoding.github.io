@@ -19,10 +19,10 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
 
 ## Education
 * Ph.D. in Computer Architecture, 2021-Now  
-  Advisors: [Prof. Xiaohui Wei][1] 
+  Advisors: [Prof. Xiaohui Wei][1]  
   College of Computer Science and Technology, Jilin University 
 * M.Eng. in Computer Architecture, 2018-2021  
-  Advisors: [Prof. Xiaohui Wei][1]
+  Advisors: [Prof. Xiaohui Wei][1]  
   College of Computer Science and Technology, Jilin University  
 * B.S. in Computer Science and Technology, 2014-2018  
   College of Computer Science and Technology, Jilin University  
