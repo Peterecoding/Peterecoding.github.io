@@ -11,7 +11,8 @@ redirect_from:
 Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin Universiy][3]. His research interests include Computer Architecture and Deep Learning.
 
 ## News  
-
+**Jul. 2021**: *RLConfig:Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning* is accepted by [ISPA 2021][105].
+**Jul. 2021**: *DRL-Deploy:Adaptive Service Function Chains Deployment with Deep Reinforcement Learning* is accepted by [ISPA 2021][105].
 
 ## Selected Publications
 * Wei, Xiaohui, Xiaoxian Shen, **Changbao Zhou**, and Hengshan Yue. A Novel Clustering-Based Filter Pruning Method for Efficient Deep Neural Networks. **In International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP)**, 2020:245-258.
@@ -38,3 +39,4 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
   [1]:http://ccst.jlu.edu.cn/info/1192/9490.htm
   [2]:http://ccst.jlu.edu.cn/
   [3]:http://www.jlu.edu.cn/
+  [105]:http://www.cloud-conf.net/ispa2021/
