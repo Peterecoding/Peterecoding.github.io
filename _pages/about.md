@@ -36,7 +36,7 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
   Data Center, China Automotive Technology and Research Center Co. Ltd
 
 ## Contact
-* Email: zhoucb18@mails.jlu.edu.cn
+* Email: zhoucb21@mails.jlu.edu.cn
 * Address: No.2699, Qianjin street, ChangChun City, Jilin Province, China
 
   [1]:http://ccst.jlu.edu.cn/info/1192/9490.htm
