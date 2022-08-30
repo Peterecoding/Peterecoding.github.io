@@ -13,7 +13,7 @@ name                     : &name "Changbao Zhou"
 description              : &description "Ph.D. candidate at College of Computer Science and Technology,  Jilin University"
 url                      : https://changbaozhou.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BobZhou1010.github.io"
+repository               : "changbaozhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "Changchun, Jilin, China"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "zhoucb18@mails.jlu.edu.cn"
+  email            : "zhoucb21@mails.jlu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
